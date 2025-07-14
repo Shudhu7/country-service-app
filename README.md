@@ -35,10 +35,11 @@
 ## 📁 Project Structure
 
 src/
-└── main/
-└── java/
-└── com/countryservice/demo/
-├── controllers/ --> API layer (Controller classes)
-├── services/ --> Business logic
-├── repositories/ --> Data access interfaces (Repository)
-└── bean/ --> JPA Entities (Country.java, etc.)
+ └── main/
+     └── java/
+         └── com/countryservice/demo/
+             ├── controllers/     --> API layer (Controller classes)
+             ├── services/        --> Business logic
+             ├── repositories/    --> Data access interfaces (Repository)
+             └── bean/            --> JPA Entities (Country.java, etc.)
+
