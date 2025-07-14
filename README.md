@@ -32,8 +32,7 @@
 
 ---
 
-## 📁 Project Structure
-
+<details> <summary><strong>📂 Project Structure</strong></summary>
 src/
  └── main/
      └── java/
@@ -42,4 +41,5 @@ src/
              ├── services/        --> Business logic
              ├── repositories/    --> Data access interfaces (Repository)
              └── bean/            --> JPA Entities (Country.java, etc.)
+</details>
 
